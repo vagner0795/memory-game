@@ -20,6 +20,7 @@
 .login-header h1{
     font-size: 1.5em;
     color: #333333;
+    text-align: center;
 }
 
 .login-input{
@@ -34,7 +35,7 @@
 }
 
 .login-button{
-    background-color: #0097ff;
+    background-color: #000000;
     padding: 15px;
     color: #ffffff;
     border-radius: 10px;
